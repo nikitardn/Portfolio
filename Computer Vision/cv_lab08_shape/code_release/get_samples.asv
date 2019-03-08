@@ -1,0 +1,4 @@
+function X_nsamp = get_samples(X,nsamp)
+
+    ind = randi(nsamp,,1)
+end
