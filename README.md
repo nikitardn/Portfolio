@@ -1,7 +1,7 @@
 # Selection of academic projects.
 This is a sample of some projects I have worked on during my studies at EPFL, McGill University and ETH Zurich.
 
-### 3D Human Pose Estimation
+###  3D Human Pose Estimation
 This work is produced in the context of the Machine Perception course at ETH. The aim is to provide an improved pipeline for human 3D pose estimation (position of 17 key-points) from a single 2D image. The approach is based on integral pose regression, but has completely reimplemented in Tensorflow with Keras.
 ### AI - Tablut
 This project of the McGill AI course consisted in a competition based project had us develop an agent that would play the Nordic board game Tablut. My implementation uses a simple min-max method with alpha-beta pruning combined with a handcrafted heuristic. It achieves super-human (at least much better than me) performance.
@@ -21,3 +21,8 @@ This project was conducted under the supervision of Prof. Forbes at McGill. It i
 ### SOFIA
 SOFIA is airborne telescope developed by NASA and DLR. During the mechanical design course at EPFL we were tasked to develop a new system for the telescope. Our mechanism had to support the secondary mirror, while allowing it to quickly oscillate around two axis. All of this needed to be done without any friction and as such, the system used flexure joints. The final report is provided.
 
+### Reinforcement Learning for Spacebok
+Semester Project at RSL, ETH. Investigate the ability of deep learning models to learn the dynamics of the legged robot ANYmal. The main objective of such learned models would be to use them in model-based deep RL methods, potentially allowing to train without a simulator.
+
+### Reinforcement Learning for Spacebok
+Master Thesis in the Robotic System's Lab (RSL) at ETH. Investigate and implement deep reinforcement learning technics for attitude control of a legged robot in low-gravity environment solely using its limbs. Ongoing

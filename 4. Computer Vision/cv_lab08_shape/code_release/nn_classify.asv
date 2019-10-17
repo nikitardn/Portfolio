@@ -1,0 +1,20 @@
+function testClass = nn_classify(Cvec,trainClasses,k)
+    
+    [min_vals, min_ids] = sort(Cvec, 'ascend');
+%     max_vals = max_vals(1:k);
+    min_ids = min_ids(1:k);
+    
+    
+    for i=1:k
+        class=trainClasses(i);
+        switch class
+            case 'Heart'
+                h=h+1;
+            case 'fork'
+                f=f+1;
+            case 'watch'
+                w=w+1;
+        end
+    end
+    
+end
