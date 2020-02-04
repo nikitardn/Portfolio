@@ -4,7 +4,7 @@ This is a sample of some projects I have worked on during my studies at EPFL, Mc
 ### 1. Reinforcement Learning for Spacebok
 Master Thesis in the Robotic System's Lab (RSL) at ETH. Investigate and implement deep reinforcement learning technics for attitude control of a legged robot in low-gravity environment solely using its limbs. Ongoing
 
-### 2. Reinforcement Learning for Spacebok
+### 2. Learning Forward Models of ANYmal Dynamics
 Semester Project at RSL, ETH. Investigate the ability of deep learning models to learn the dynamics of the legged robot ANYmal. The main objective of such learned models would be to use them in model-based deep RL methods, potentially allowing to train without a simulator.
 
 ### 3. 3D Human Pose Estimation
