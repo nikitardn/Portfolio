@@ -1,1 +1,1 @@
-Ongoing project - code sample upon request
+Ongoing project - code sample available upon request
